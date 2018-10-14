@@ -30,7 +30,6 @@ requirements:
     - r-stringdist
     - r-stringr
     - r-tidyr >=0.4.0
-
   run:
     - r-base
     - r-dplyr
