@@ -14,9 +14,8 @@ Summary: Join tables together based not on whether columns match exactly, but wh
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-fuzzyjoin-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-fuzzyjoin-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-fuzzyjoin-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-fuzzyjoin-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-fuzzyjoin-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-fuzzyjoin-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-fuzzyjoin-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-fuzzyjoin-feedstock)
 
 Current release info
 ====================
