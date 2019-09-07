@@ -1,4 +1,4 @@
-{% set version = '0.1.4' %}
+{% set version = "0.1.5" %}
 
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
@@ -12,11 +12,11 @@ source:
   url:
     - https://cran.r-project.org/src/contrib/fuzzyjoin_{{ version }}.tar.gz
     - https://cran.r-project.org/src/contrib/Archive/fuzzyjoin/fuzzyjoin_{{ version }}.tar.gz
-  sha256: 8a0b46b352ced9ad802411f8ad1123bfb510078f0e974da964dd30a8e100211b
+  sha256: 9abd80ad7f8b0d93473b9179c6af312f0fe974fa849992e6cb06088b6fffe7d3
 
 build:
   noarch: generic
-  number: 1002
+  number: 0
   rpaths:
     - lib/R/lib/
     - lib/
