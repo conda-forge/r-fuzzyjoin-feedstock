@@ -1,11 +1,11 @@
-About r-fuzzyjoin
-=================
+About r-fuzzyjoin-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-fuzzyjoin-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=fuzzyjoin
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-fuzzyjoin-feedstock/blob/main/LICENSE.txt)
 
 Summary: Join tables together based not on whether columns match exactly, but whether they are similar by some comparison. Implementations include string distance and regular expression matching.
 
